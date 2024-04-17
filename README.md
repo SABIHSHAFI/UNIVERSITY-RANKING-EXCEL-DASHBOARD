@@ -1,3 +1,7 @@
+# UNIVERSITY RANKING INSIGHT DASHBOARD 2012-15
+
+![EXCEL FINAL DASHBOARD](https://github.com/SABIHSHAFI/EXCEL-DASHBOARD/assets/119668952/0a467d79-2013-46fa-b9c1-ffb59909647d)
+
 The "University Ranking Insight 2012-15" dashboard project aims to provide users with comprehensive insights into the rankings of universities worldwide over the period from 2012 to 2015.
 Utilizing a dataset sourced from Kaggle, the dashboard presents various metrics and indicators used to assess the quality and performance of universities.
 
